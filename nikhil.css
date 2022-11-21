@@ -83,7 +83,21 @@ nav{
 nav .fa{
     display: none;
 }
-@media(max-width:700px){
+@media(max-width:720px){
+    .text-box h1{
+        font-size: 20px;
+    }
+    .nav-links ul li{
+        display: block;
+    }
+ @media(max-width:1080px){
+    .text-box h1{
+        font-size: 20px;
+    }
+    .nav-links ul li{
+        display: block;
+    }
+ @media(max-width:480px){
     .text-box h1{
         font-size: 20px;
     }
